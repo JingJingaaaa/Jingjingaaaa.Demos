@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>jqueryAjax实现瀑布流</title>
+	<link rel="stylesheet" type="text/css" href="css/base.css"/>
+
+</head>
+<body>
+	<div id="container" class="container">
+			<ul class="clearfix">
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script>
+			var start=0;
+			var index=0;
+			var isopen=true;
+			var aLi=document.querySelectorAll("li");
+			var winHeight=$(window).height();//获取窗口高度
+			//若窗口高度改变，重新获取窗口高度
+			$(window).resize(function(){
+				winHeight=$(window).height()
+			});
+			
+			//获取滚动条高度
+			$(window).on("scroll",function() {
+				var scrollT=$(window).scrollTop();
+				var minHeight=aLi[index].offsetHeight;//最小lid的高度
+				
+				//进行判断,是否li到达页面底部
+				if(winHeight+scrollT>minHeight){
+					//判断开关是否打开，用来保证每次只加载一页
+					if(isopen){
+						isopen=false;
+						start+=10;
+						getData(start)
+					}
+				}
+			})
+			getData(start)//通过改变每次请求的start来继续获取数据
+			function getData(start){
+				$.ajax({
+					url:"http://api.douban.com/v2/movie/top250?count=10&start="+start,
+					type:"GET",
+					dataType:"jsonp",
+					success:function(res){
+						imgload(0)
+						//用递归函数来代替遍历
+						function imgload(i){
+							var img=new Image();
+							
+//							console.log(typeof res)
+							var item=res.subjects[i];
+							//若item存在再加载
+							if(item){
+								img.src = item.images.large;
+								//图片加载 获取最小高度要在图片加载完后完成
+								img.onload=function(){
+									index = getMinHeight(aLi);
+									//让str等于原来加载的页面内容
+									var str=$("li").eq(index).html();
+									str+=`<a href="${item.alt}"><img src="${item.images.large}"><h4>${item.title}</h4><p>导演:<span>${item.directors[0].name}</span></p><p>主演<span>${item.casts[0].name}</span></p><p>喜欢<span class="love">❤</span><span>${item.collect_count}</span>人收藏</p></a>`
+//									str+=`<a href="${item.alt}"><img src="${item.images.large}" alt="${item.title}"/><p class="title">${item.title}</p></a>`;
+									$("li").eq(index).html(str);
+								}
+								//实现递归，自己调用自己，给i设置边界
+								if(i<res.subjects.length-1){
+									imgload(i+1)
+								}
+								isopen=true;//将开关打开
+							}else{
+								isopen=false;
+							}
+						}
+						console.log(res)
+					},
+					error:function(err) {
+						console.log(err)
+					}
+					
+				})
+			}
+			
+			//得到最小LI的高度,将最小li的index索引值返回出来
+			function getMinHeight(lists) {
+				var index=0;//第几个
+				var minHeight=lists[index].offsetHeight;
+				for(var i=1;i<lists.length;i++){
+					//判断哪个li的高度最小，得到这个li的index值
+					if(minHeight>lists[i].offsetHeight){
+						minHeight=lists[i].offsetHeight;
+						index=i;
+					}
+				}
+				return index;
+			}
+			
+//			另一个网站
+//			$url = 'http://www.wookmark.com/api/json/popular?start=' . $cpage;
+
+		</script>
+</body>
+</html>
+		
+		
+		

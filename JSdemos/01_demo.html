@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>百度评分</title>
+		<style type="text/css">
+			span{
+				display: inline-block;
+				font-size: 30px;
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<div>
+			<p>亲，请对我们评分哦</p>
+			<span>☆</span>
+			<span>☆</span>
+			<span>☆</span>
+			<span>☆</span>
+			<span>☆</span>
+		</div>
+		<script type="text/javascript">
+			var box=document.getElementsByTagName("div");
+			var aSpan=document.getElementsByTagName("span");
+			
+			for(var i=0;i<aSpan.length;i++){
+				aSpan[i].index=i;
+				aSpan[i].onclick=function(){
+					var that=this.index;
+					 mIndex=that;//标记点击的星星
+					for(var j=0;j<=that;j++){
+						aSpan[j].textContent="★";
+						aSpan[j].style.color="orange";	
+					}
+				}
+				aSpan[i].onmouseover=function(){
+					var that=this.index;
+					for(var j=0;j<aSpan.length;j++){
+						aSpan[j].textContent="☆";
+						aSpan[j].style.color="#000";	
+					}
+					for(var j=0;j<=that;j++){
+						aSpan[j].textContent="★";
+						aSpan[j].style.color="orange";	
+					}
+				}
+				aSpan[i].onmouseout=function(){
+					var that=this.index;
+					for(var j=0;j<=that;j++){
+						aSpan[j].textContent="☆";
+						aSpan[j].style.color="#000";	
+					}
+					for(var j=0;j<=mIndex;j++){
+						aSpan[j].textContent="★";
+						aSpan[j].style.color="orange";	
+					}
+				}
+			}
+			
+		</script>
+	</body>
+</html>

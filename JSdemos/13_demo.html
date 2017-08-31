@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <input type="checkbox" id="checkall"> 全选
+    <div id="div">
+        <input type="checkbox" name="type" value="1">这是1
+        <input type="checkbox" name="type" value="2">这是2
+    </div>
+    <script>
+    window.onload = function() {
+        var checkAll = document.getElementById('checkall');
+        var checkBox = document.getElementById('div').getElementsByTagName('input');
+        checkAll.onclick = function() {
+            for (var i = 0; i < checkBox.length; i++) {
+                if (checkBox[i].checked) {
+                    checkBox[i].checked = false;
+                } else {
+                    checkBox[i].checked = true;
+                }
+            }
+        }
+    }
+    </script>
+</body>
+
+</html>

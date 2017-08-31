@@ -1,0 +1,75 @@
+body,ul{
+	margin: 0;padding: 0;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+li{
+	list-style: none;
+}
+.carousel-wrap{
+	position: relative;
+	overflow: hidden;
+	width: 1200px;
+	margin: 0 auto;
+}
+.carousel-content{
+	width: 4800px;
+}
+.carousel-content li{
+	float: left;
+	width: 1200px;
+}
+.carousel-content img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+/*
+ * control
+ * */
+.carousel-control{
+	position: absolute;top: 50%;
+	margin-top: -20px;
+	display: block;
+	width: 40px;height: 40px;
+	line-height: 40px;text-align: center;
+	font-size: 38px;
+	font-family: "宋体";
+	font-weight: bolder;
+	background: rgba(255,255,255,.2);
+	color: rgba(0,0,0,.3);
+	transition: background 300ms ease-in,color 300ms ease-in;
+	cursor: pointer;
+}
+
+.carousel-control:hover{
+	background: rgba(255,255,255,.6);
+	color: rgba(0,0,0,.8);
+}
+.carousel-control-left{
+	left: 0;
+}
+.carousel-control-right{
+	right: 0;
+}
+/*
+ * 指示器
+ */
+.carousel-indicator{
+	position: absolute;
+	left: 50%;bottom: 10px;
+	transform: translate3d(-50%,0,0);
+}
+.carousel-indicator li{
+	float: left;
+	margin: 0 4px;
+	width: 8px;height: 8px;
+	border-radius: 50%;
+	border: 2px solid rgba(255,255,255,.5);
+	cursor: pointer;
+}
+.carousel-indicator li.active{
+	background: #00f;
+}

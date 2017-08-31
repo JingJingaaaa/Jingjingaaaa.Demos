@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>login</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,minimal-ui">
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+</head>
+<body>
+<div class="main">
+    <div class="header">
+        <span class="iconfont icon-arrow-right-copy" id="icon_back"></span>
+        <span class="resign" id="resign" >注册</span>
+    </div>
+    <section class="content" id="">
+        <h2 class="title">携程账号登录</h2>
+        <ul class="login_box">
+            <li>
+                <div class="clear-input-box">
+                    <input maxlength="30" name="tel" id="tel" type="text" class="ipt username" placeholder="国内手机号/用户名/邮箱/卡号" required/>
+                </div>
+            </li>
+            <li>
+                <div class="clear-input-box"  style="margin-right:100px;">
+                    <input type="password"  name="password" id="password" maxlength="20" class="ipt password" placeholder="登录密码" required/>
+                </div>
+                <span class="btn-primary-s" id="forgetPwdBtn_login">找回密码</span>
+            </li>
+        </ul>
+        <div class="btn_box">
+            <button class="login" id="btnLogin">登录</button>
+            <p>
+                <a href="###" class="forget" >手机动态密码登录</a>
+                <a href="javascript:void(0)" class="intel_mobile" >境外手机登录</a>
+            </p>
+        </div>
+    </section>
+    <footer>
+        <div class="others_login">
+            <div class="login_third_item"><i class="iconfont icon-QQ" ></i></div>
+            <div class="login_third_item"><i class="iconfont icon-baidu1" ></i></div>
+            <div class="login_third_item"><i class="iconfont icon-weibo"></i></div>
+        </div>
+        <p class="agreement" id="law_rule">
+            登录即代表您同意我们的
+            <a id="agreement">服务协议</a> 和
+            <a id="policy">隐私政策</a>
+        </p>
+    </footer>
+</div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/base.js"></script>
+    <script>
+        var resign=document.getElementById("resign");
+        resign.onclick=function(){
+            window.location.href="resign.html";
+        };
+        var icon_back=document.getElementById("icon_back");
+        icon_back.onclick= function () {
+            window.location.href="my.html";
+        };
+
+
+        var btnLogin=document.getElementById("btnLogin");
+        var tel=document.getElementById("tel");
+        var password=document.getElementById("password");
+        btnLogin.onclick= function () {
+
+           var TEL= getCookie("tel"),
+               pw= getCookie("password");
+            console.log(TEL,pw);
+           if(tel.value==TEL&&password.value==pw){
+               window.location="home_page.html";
+           }else{
+               password.setCustomValidity("请检查用户名或密码错误，请重新输入");
+           }
+
+
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="zh-CN" ng-app="BookStoreApp">
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>BookStore</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" />
+		<link rel="stylesheet" href="bower_components/materialize/dist/css/materialize.css" />
+		<link rel="stylesheet" href="css/app.css" />
+		<script src="js/angular.js"></script>
+		<script src="js/angular-route.js"></script>
+	</head>
+
+	<body>
+		<div class="container">
+			<h3>
+				BookStore
+				<small class="grey-text">web AngularJS</small>
+			</h3>
+			<div class="divider"></div>
+
+			<div ng-view>
+
+			</div>
+		</div>
+		<script src="bower_components/jquery/dist/jquery.js"></script>
+		<script src="bower_components/materialize/bin/materialize.js"></script>
+		<script>
+			angular.module('BookStoreApp',['ngRoute'])
+				.config(function ($routeProvider) {
+                    $routeProvider
+						.when('/',{
+						    templateUrl:'list.html',
+                            controller:'BookListController'
+						})
+                        .when('/:bookId',{
+                            templateUrl:'detail.html',
+                            controller:'BookDetailController'
+                        })
+                        .otherwise({
+                            redirectTo:'/'
+                        })
+                })
+                .controller('BookListController',function ($scope,$http) {
+                    $scope.orderby = "title";
+                    $http
+                        .get('./db/books.json')
+                        .then(function (res) {
+                            $scope.booksData = res.data.datas;
+
+                        })
+                })
+                .controller('BookDetailController',function ($scope,$http,$routeParams) {
+                    let bootId = $routeParams.bookId;
+                    $scope.orderby = "title";
+                    $scope.imgSrc = bootId
+                    $http
+                        .get('./db/' + bootId + '.json')
+                        .then(function (res) {
+                            $scope.book = res.data;
+                            $scope.changeImg = function (img) {
+                                $scope.imgSrc = img
+                            }
+                        })
+                })
+                .filter('StatusText',function () {
+                    return function (input) {
+                        // true  正常出售   false 暂无库存
+                        return input==="true" ? "正常出售" : "暂无库存"
+                    }
+                })
+                .filter('StatusClass',function () {
+                    return function (input) {
+                        // true  正常出售   false 暂无库存
+                        return input==="true" ? "green-text" : "red-text"
+                    }
+                })
+		</script>
+	</body>
+</html>

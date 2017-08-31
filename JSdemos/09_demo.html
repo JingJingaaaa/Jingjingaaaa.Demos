@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>拖拽（练习鼠标事件）</title>
+		<style type="text/css">
+		*{padding: 0;margin: 0;}
+			#div{
+				position: absolute;
+				width: 150px;
+				height: 150px;
+				background: #FF4500;
+				cursor: pointer;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="div"></div>
+		<script type="text/javascript">
+		var dx,dy;
+			var box=document.getElementById("div");
+			box.onmousedown=function (e) {
+				e=e||window.event;
+				dx=e.clientX-this.offsetLeft;
+				dy=e.clientY-this.offsetTop;
+				
+				document.onmousemove=function(e){
+					e=e||window.event;
+					var L=e.clientX-dx;
+					var T=e.clientY-dy;
+					box.style.left=L+"px";
+					box.style.top=T+"px";
+				}
+			}
+			
+			document.onmouseup=function(){
+				document.onmousemove=null;
+			}
+			
+		</script>
+	</body>
+</html>

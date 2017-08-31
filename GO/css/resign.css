@@ -1,0 +1,132 @@
+.main{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 100%;
+    font-family: "Microsoft YaHei", hei, Arial, "Lucida Grande", Verdana;
+}
+a{text-decoration: none;}
+.main .header{
+    position: relative;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    color: #099fde;
+}
+.header .icon-arrow-right-copy{
+    position: absolute;
+    font-size: 20px;
+    left:5px;
+}
+.header .login {
+    position: absolute;
+    font-size: 15px;
+    right: 5px;
+}
+/*-----------------------------------*/
+.main .content {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.content .title {
+    margin-top: 55px;
+    text-align: center;
+    font-size: 25px;
+    color: #333;
+    line-height: 25px;
+    font-weight: normal;
+}
+.content .resign_box{
+    margin-top: 50px;
+    padding: 0 25px;
+    background-color: #FFF
+}
+.content .resign_box li{
+    border-bottom: 1px solid #CCCCCC;
+}
+.content .resign_box .clear-input-box{
+    position: relative;
+    height: 54px;
+    margin: 0;
+
+
+}
+.content .resign_box input{
+    color: #ccc;
+    font-size: 16px;
+    width: 100%;
+    height: 54px;
+    border: 0;
+    padding: 0 5px;
+    background: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: 0;
+}
+.content .resign_box .btn-primary-s{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    cursor: pointer;
+    -webkit-transform: translateY(120%);
+    transform: translateY(120%);
+    display: inline-block;
+    width: 80px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 4px;
+    color: #000;
+    background: #CCCCCC;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+.content .btn_box{
+  margin: 20px;
+}
+.content .btn_box .resign{
+    width: 100%;
+    text-align: center;
+    height: 44px;
+    line-height: 44px;
+    background-color:#ff9a14;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+
+/*----------------------------------------*/
+.main footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+footer #e{
+    margin-bottom: 10px;
+}
+footer #e a{
+    color: #2EAAE0;
+    border: 1px solid#2EAAE0;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 0 20px;
+}
+.main .agreement{
+    font-size: 14px;
+    margin: 5px 0;
+}
+.main .agreement a{
+    color: #3D98FF;
+}
+button{
+    border-style:solid;
+    border-width:1px;
+    border-color:#FFFFFF;
+}

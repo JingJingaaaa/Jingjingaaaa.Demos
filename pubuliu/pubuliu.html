@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>JQuery瀑布流插件+jsonp</title>
+		<style type="text/css">
+			*{
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+			.container-fluid {
+				text-align: center;
+			  	/*margin: 10px;*/
+			}
+			.container-fluid:after{
+				content: "";
+				height: 0;
+				display: block;
+				visibility: hidden;
+				clear: both;
+			}
+			.box{
+
+				border: 1px solid #eee;
+				box-shadow: 5px 5px 5px #ccc;
+				float: left;
+				width: 250px;
+				margin: 10px auto;
+			  }
+			.box a{
+			  	text-decoration: none;
+			  	color: #ccc;
+			}
+			.box img {
+				margin-bottom: 10px;
+				  display: block;
+				  max-width: 100%;
+				  height: auto;
+			}
+			.box p span{
+				line-height: 1.8;
+				padding:0 15px;
+			}
+			.box .love{
+				color: lightpink;
+			}
+			.box .love:hover{
+				color:#ff9932;
+			}
+		
+		</style>
+	</head>
+	<body>
+			<div id="masonry" class="container-fluid">
+				<!--<div class="box">
+					<a href="#">
+						<img src="img/12.jpg">
+						<h4>title</h4>
+						<p>导演:<span>导</span></p>
+						<p>主演<span>猪脚</span></p>
+						<p>喜欢<span id="love">❤</span><span>2000</span>人收藏</p>
+					</a>
+				</div>-->
+				
+			</div>
+		
+		<script src="http://libs.baidu.com/jquery/1.8.3/jquery.min.js"></script>
+		<script src="http://jq22.qiniudn.com/masonry-docs.min.js"></script>
+		
+		<script type="text/javascript">
+			
+			    var $container = $('#masonry');
+
+			    function fn(data){
+			    	console.log(data)
+			    	console.log(data.subjects);
+			    	let subjects=data.subjects;
+			    	var str="";
+			    	subjects.forEach(function(item,index){
+				    	str+=`<div class="box"><a href="${item.alt}"><img src="${item.images.large}"><h4>${item.title}</h4><p>导演:<span>${item.directors[0].name}</span></p><p>主演<span>${item.casts[0].name}</span></p><p>喜欢<span class="love">❤</span><span>${item.collect_count}</span>人收藏</p></a></div>`
+			    	})
+			    	$container.html(str);
+			    	$container.imagesLoaded(function() {
+				        $container.masonry({
+			                itemSelector: '.box',
+			                gutter: 20,//内容块之间的距离是 20 像素
+			                isAnimated: true//打开动画选项，也就是当改变窗口宽度的时候，每行显示的内容块的数量会有变化，
+			            });
+				    });
+			    }
+
+		</script>
+		<script src="http://api.douban.com/v2/movie/top250?callback=fn&count=30&start=10"></script>
+	</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MY</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,minimal-ui">
+    <link rel="stylesheet" type="text/css" href="css/iconfont.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/my.css">
+</head>
+<body>
+    <div class="main">
+        <div class="home_header">
+            <h1>登陆携程，开始旅行</h1>
+            <i class="iconfont icon-arrow-right-copy"></i>
+            <i class="iconfont icon-xiaoxi"></i>
+        </div>
+        <div class="login_box">
+            <button id="btnLogin" class="login_btn">登陆/注册</button>
+            <button id="btnMobile" class="login_btn">手机号查单</button>
+        </div>
+        <div class="my_content">
+            <section>
+                <ul class="content_list list_card">
+                    <li>
+                        <i class="iconfont icon-xiecheng4"></i>钱包
+                        <em>礼品卡<i class="separator">|</i>现金<i class="separator">|</i>返现</em>
+                    </li>
+                    <li>
+                        <i class="iconfont icon-youhuiquan"></i>优惠券
+                        <em>领券</em>
+                    </li>
+                    <li>
+                        <i class="iconfont icon-gift"></i>积分
+                        <em>兑好礼</em>
+                    </li>
+                    <li>
+                        <i class="iconfont icon-huabei"></i>拿去花
+                        <em>分期付款</em>
+                    </li>
+                </ul>
+                <ul class="content_lists">
+                    <li>
+                        <em>旅客/地址/发票抬头</em>常用信息
+                    </li>
+                    <li>
+                        <em>降价产品有提醒</em>我的收藏
+                    </li>
+                    <li>
+                        <em>近15天访问记录</em>浏览历史
+                    </li>
+                    <li>
+                        <em>供应商加盟/代理合作</em>我要合作
+                    </li>
+                </ul>
+                <ul class="content_lists">
+                    <li>
+                        <em>航班动态/翻译助手等</em>出行工具
+                    </li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <script>
+        var loginBtn=document.getElementById("btnLogin");
+        loginBtn.onclick=function(){
+            window.location="login.html"
+        }
+        var back=document.getElementsByTagName("i")[0]
+        back.onclick= function () {
+            window.history.back()
+        }
+    </script>
+</body>
+</html>
+
+
+

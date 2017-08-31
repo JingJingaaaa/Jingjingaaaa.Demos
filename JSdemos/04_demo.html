@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>数字时钟</title>
+	</head>
+	<body>
+		<h1></h1>
+		<script type="text/javascript">
+			var t=document.getElementsByTagName("h1")[0];
+			setInterval(getTime,1000);
+			function getTime(){
+				var time=new Date;
+				var y=time.getFullYear();
+				var mon=time.getMonth()+1;
+				var d=time.getDate();
+				var h=time.getHours();
+				var min=time.getMinutes();
+				var s=time.getSeconds();
+				function puanduan(num){
+					num<10? num="0"+num:num
+					return num;
+				}
+				t.textContent=y+"年"+puanduan(mon)+"月"+puanduan(d)+"日"+puanduan(h)+"时"+puanduan(min)+"分"+puanduan(s)+"秒";
+			}
+			
+			
+		</script>
+	</body>
+</html>

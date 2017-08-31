@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>三级联动</title>
+		<script src="js/jquery-1.8.2.min.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+		    var choose;
+			var data={
+				"西餐":{"披萨":['田园香菇披萨','夏威夷风情披萨','巴西烤肉披萨'],"汉堡":['照烧鸡腿堡','半鸡半虾堡','超级巨无霸']},
+				"中餐":{"粤菜":['东江酿豆腐','白灼基围虾','菠萝咕噜肉'],"湘菜":['干煸四季豆','双色剁椒鱼头','毛氏红烧肉']},
+				"下午茶":{"享味蛋糕":['黑森林蛋糕','拿破仑抹茶蛋糕','提拉米苏'],"风味特饮":['蜂蜜柚子茶','鲜榨果汁','现磨咖啡']},
+				"其他":{"自助餐":['环球约客自助火锅','巴黎春天自助烤','日式自助料理'],"香锅烤鱼":['巫山烤鱼','鲈鱼传奇','麻辣香锅']}
+			}
+			function  fengzhuang(i){
+				$(i).html("<option>请选择</option>");
+			}//初始化菜单的封装
+			
+			$(function(){
+//				一级菜单
+				$.each(data,function(o123){//0123是data的属性  o23 是data的属性值
+					$("#food").append("<option value='"+o123+"'>"+o123+"</option>")
+				});
+				
+				$("#food").change(function(){
+//					先初始化二级和三级
+					fengzhuang("#kinds");
+					fengzhuang("#content");
+//					二级菜单
+					$.each(data, function(o123,o23) {//o123指的是西餐/中餐（data的属性值    o23指的是西餐/中餐的属性值 {"披萨":['田园披萨','夏威夷风情','巴西烤肉'],"汉堡":['照烧鸡腿堡','半鸡半虾堡','超级巨无霸']}
+						if($("#food").val()==o123){//?
+							$.each(o23, function(o2) {
+								$("#kinds").append("<option value='"+o2+"'>"+o2+"</option>")
+							});
+							choose=o23;//{"披萨":['田园披萨','夏威夷风情','巴西烤肉'],"汉堡":['照烧鸡腿堡','半鸡半虾堡','超级巨无霸']}
+						}
+					})
+				})
+				
+//				三级菜单
+				$("#kinds").change(function(){//change指任意改变
+//					初始化三级菜单
+					fengzhuang("#content");
+					$.each(choose,function(o23,o3){//o23指的是披萨，汉堡（属性名）   o3指的是 田园披萨（属性值）
+						if($("#kinds").val()==o23){
+							$.each(o3,function(xiabiao,shuxingzhi){
+								$("#content").append("<option value='"+shuxingzhi+"'>"+shuxingzhi+"</option>")
+							})
+						}
+					})
+				})
+				
+				$("button").click(function(){
+					var $one=$("#food option:checked").val();
+					var $two=$("#kinds option:checked").val();
+					var $three=$("#content option:checked").val();
+					$("p").append("您选择了："+$one+"--"+$two+"中的非常美味的："+$three+"<br />");
+			})
+			})
+		</script>
+	</head>
+	<body>
+		美食:
+		<select id="food">
+			<option value="change1">请选择</option>
+		</select>
+		分类：
+		<select id="kinds">
+			<option value="change2">请选择</option>
+		</select>
+		菜名：
+		<select id="content">
+			<option value="change3">请选择</option>
+		</select>
+		<button>我选好了</button>
+		<p></p>
+	</body>
+</html>

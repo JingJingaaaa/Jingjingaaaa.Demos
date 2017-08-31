@@ -1,0 +1,154 @@
+.main{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    height: 100%;
+    font-family: "Microsoft YaHei", hei, Arial, "Lucida Grande", Verdana;
+}
+a{text-decoration: none;}
+.main .header{
+    position: relative;
+    width: 100%;
+    height: 44px;
+    line-height: 44px;
+    color: #099fde;
+}
+.header .icon-arrow-right-copy{
+    position: absolute;
+    font-size: 20px;
+    left:5px;
+}
+.header .resign {
+    position: absolute;
+    font-size: 15px;
+    right: 5px;
+}
+/*-----------------------------------*/
+.main .content {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.content .title {
+    margin-top: 55px;
+    text-align: center;
+    font-size: 25px;
+    color: #333;
+    line-height: 25px;
+    font-weight: normal;
+}
+.content .login_box{
+    margin-top: 50px;
+    padding: 0 25px;
+    background-color: #FFF
+}
+.content .login_box li{
+    border-bottom: 1px solid #CCCCCC;
+}
+.content .login_box .clear-input-box{
+    position: relative;
+    height: 54px;
+    margin: 0;
+
+
+}
+.content .login_box input{
+    color: #ccc;
+    font-size: 16px;
+    width: 100%;
+    height: 54px;
+    border: 0;
+    padding: 0 5px;
+    background: transparent;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: 0;
+}
+.content .login_box .btn-primary-s{
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    -webkit-transform: translateY(50%);
+    transform: translateY(50%);
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    line-height: 28px;
+    text-align: center;
+    border-radius: 4px;
+    color: #099FDE;
+    cursor: pointer;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 13px;
+}
+.content .btn_box{
+  margin: 20px;
+}
+.content .btn_box .login{
+    width: 100%;
+    text-align: center;
+    height: 44px;
+    line-height: 44px;
+    background-color:#ff9a14;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+.content .btn_box p{
+    position: relative;
+    margin-top:20px ;
+    font-size: 16px;
+}
+.content .btn_box p .forget{
+    position: absolute;
+    left: 0;
+}
+.content .btn_box p .intel_mobile{
+    position: absolute;
+    right: 0;
+}
+/*----------------------------------------*/
+.main footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+.main .others_login{
+    width: 100%;
+    padding: 30px 0 15px;
+    display: flex;
+    text-align: center;
+}
+.others_login .login_third_item{
+    flex:1 ;
+}
+.others_login .login_third_item i{
+    font-size: 32px;
+}
+.others_login .icon-QQ{
+    color:#6aabff;
+}
+.others_login .icon-baidu1{
+    color:#0000ff;
+}
+.others_login .icon-weibo{
+    color:#f3234d;
+}
+.main .agreement{
+    font-size: 14px;
+    margin: 5px 0;
+}
+.main .agreement a{
+    color: #3D98FF;
+}
+button{
+    border-style:solid;
+    border-width:1px;
+    border-color:#FFFFFF;
+}

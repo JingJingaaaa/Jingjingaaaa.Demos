@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>倒计时</title>
+	</head>
+	<body>
+		<h1></h1>
+		<script >
+		var con=document.getElementsByTagName("h1")[0];
+		var timer=setInterval(getTime,1000);
+		function getTime(){
+			var startTime=new Date();
+			var endTime=new Date(2017,10,1,11,47,59);
+			var theTime=Math.floor((endTime-startTime)/1000);
+//			console.log(theTime);
+			var _D=Math.floor(theTime/86400);
+			var _H=Math.floor(theTime%86400/3600);
+			var _M=Math.floor(theTime%86400%3600/60);
+			var _S=Math.floor(theTime%60);
+			function panduan(t){
+				if(t<10){
+					t="0"+t;
+				}
+				return t;
+			}
+			con.textContent="倒计时:"+panduan(_D)+"天"+panduan(_H)+"时"+panduan(_M)+"分"+panduan(_S)+"秒";
+			if(_D&&_H&&_M&&_S<0){
+				clearInterval(timer);
+				con.textContent="活动已结束，下次再来哦";
+			}
+		}
+		
+		</script>
+	</body>
+</html>

@@ -1,0 +1,487 @@
+{
+    "datas": [
+      {
+        "word": "北京",
+        "type": "district",
+        "districtname": "中国北京",
+        "url": "http://m.ctrip.com/webapp/you/place/1.html"
+      },
+      {
+        "word": "北京的全部旅游产品",
+        "type": "channeltravelsearch",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/tour/tours?saleCityId=105&kwd=%E5%8C%97%E4%BA%AC"
+      },
+      {
+        "word": "北京的全部酒店",
+        "type": "hotellist",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/hotel/beijing1"
+      },
+      {
+        "word": "古北水镇大酒店",
+        "type": "desthotel",
+        "price": "2375",
+        "star": "豪华型",
+        "zonename": "密云景区 ",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/1047921.html?atime=20170828"
+      },
+      {
+        "word": "北京励骏酒店",
+        "type": "desthotel",
+        "price": "1310",
+        "star": "五星级",
+        "districtname": "中国北京",
+        "zonename": "天安门/王府井 ",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/429203.html?atime=20170828"
+      },
+      {
+        "word": "北京千禧大酒店",
+        "type": "desthotel",
+        "price": "1431",
+        "star": "五星级",
+        "districtname": "中国北京",
+        "zonename": "国贸CBD ",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/385114.html?atime=20170828"
+      },
+      {
+        "word": "北京饭店",
+        "type": "desthotel",
+        "price": "918",
+        "star": "五星级",
+        "zonename": "天安门/王府井 ",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/431639.html?atime=20170828"
+      },
+      {
+        "word": "北京瑰丽酒店",
+        "type": "desthotel",
+        "price": "2023",
+        "star": "豪华型",
+        "zonename": "国贸CBD ",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/1198297.html?atime=20170828"
+      },
+      {
+        "word": "北京优惠门票",
+        "type": "channelticketsearch",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/ticket/dest/k-keyword-0/s-tickets?keyword=%E5%8C%97%E4%BA%AC&scname=%E5%A4%AA%E5%8E%9F"
+      },
+      {
+        "word": "北京团购",
+        "type": "channelgroupsearch",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/tuan/list/?cityid=1"
+      },
+      {
+        "word": "太原到北京的机票",
+        "type": "channelplanesearch",
+        "districtname": "中国北京",
+        "url": "http://m.ctrip.com/html5/flight/TYN-BJS-day-1.html?Ddate1=2017-08-29"
+      },
+      {
+        "word": "故宫",
+        "type": "sight",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/you/sight/Beijing1/229.html"
+      },
+      {
+        "word": "颐和园",
+        "type": "sight",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/you/sight/Beijing1/231.html"
+      },
+      {
+        "word": "天安门广场",
+        "type": "sight",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/you/sight/Beijing1/228.html"
+      },
+      {
+        "word": "八达岭长城",
+        "type": "sight",
+        "districtname": "北京延庆",
+        "url": "http://m.ctrip.com/webapp/you/sight/yanqing770/230.html"
+      },
+      {
+        "word": "圆明园",
+        "type": "sight",
+        "districtname": "北京",
+        "url": "http://m.ctrip.com/webapp/you/sight/Beijing1/5208.html"
+      },
+      {
+        "word": "北京必吃美食",
+        "type": "food",
+        "districtname": "中国北京",
+        "url": "http://m.ctrip.com/webapp/you/foods/Beijing1.html?did=1&dname=%E5%8C%97%E4%BA%AC"
+      },
+      {
+        "word": "北京定制包团",
+        "type": "channeltravel",
+        "districtname": "中国上海",
+        "url": "http://m.ctrip.com/webapp/dingzhi/directDemand"
+      },
+      {
+        "word": "上海",
+        "type": "district",
+        "districtname": "中国上海",
+        "url": "http://m.ctrip.com/webapp/you/place/2.html"
+      },
+      {
+        "word": "上海的全部旅游产品",
+        "type": "channeltravelsearch",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/tour/tours?saleCityId=105&kwd=%E4%B8%8A%E6%B5%B7"
+      },
+      {
+        "word": "上海的全部酒店",
+        "type": "hotellist",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/shanghai2"
+      },
+      {
+        "word": "上海玩具总动员酒店",
+        "type": "desthotel",
+        "price": "1437",
+        "start": "高档型",
+        "zonename": "迪士尼 ",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/4687213.html?atime=20170829"
+      },
+      {
+        "word": "上海金茂君悦大酒店",
+        "type": "desthotel",
+        "price": "2300",
+        "start": "五星级",
+        "zonename": "陆家嘴 ",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/346403.html?atime=20170829"
+      },
+      {
+        "word": "上海浦东香格里拉大酒店",
+        "type": "desthotel",
+        "price": "1850",
+        "start": "五星级",
+        "zonename": "陆家嘴 ",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/373052.html?atime=20170829"
+      },
+      {
+        "word": "上海凯宾斯基大酒店",
+        "type": "desthotel",
+        "price": "1446",
+        "start": "豪华型",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/425821.html?atime=20170829"
+      },
+      {
+        "word": "上海裕景大饭店",
+        "type": "desthotel",
+        "price": "749",
+        "start": "五星级",
+        "zonename": "陆家嘴 ",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/385105.html?atime=20170829"
+      },
+      {
+        "word": "上海优惠门票",
+        "type": "channelticketsearch",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/ticket/dest/k-keyword-0/s-tickets?keyword=%E4%B8%8A%E6%B5%B7&scname=%E5%A4%AA%E5%8E%9F"
+      },
+      {
+        "word": "上海团购",
+        "type": "channelgroupsearch",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/tuan/list/?cityid=2"
+      },
+      {
+        "word": "太原到上海的机票",
+        "type": "channelplanesearch",
+        "districtname": "中国上海",
+        "url": "http://m.ctrip.com/html5/flight/TYN-SHA-day-1.html?Ddate1=2017-08-30"
+      },
+      {
+        "word": "东方明珠",
+        "type": "sight",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/you/sight/Shanghai2/762.html"
+      },
+      {
+        "word": "上海迪士尼度假区",
+        "type": "sight",
+        "districtname": "上海迪士尼度假区",
+        "url": "http://m.ctrip.com/webapp/you/sight/shanghaidishinidujiaqu1446916/1412255.html"
+      },
+      {
+        "word": "上海野生动物园",
+        "type": "sight",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/you/sight/Shanghai2/758.html"
+      },
+      {
+        "word": "外滩",
+        "type": "sight",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/you/sight/Shanghai2/736.html"
+      },
+      {
+        "word": "上海环球金融中心",
+        "type": "sight",
+        "districtname": "上海",
+        "url": "http://m.ctrip.com/webapp/you/sight/Shanghai2/57043.html"
+      },
+      {
+        "word": "上海必吃美食",
+        "type": "food",
+        "districtname": "中国上海",
+        "url": "http://m.ctrip.com/webapp/you/foods/Shanghai2.html?did=2&dname=%E4%B8%8A%E6%B5%B7"
+      },
+      {
+        "word": "上海定制包团",
+        "type": "channeltravel",
+        "districtname": "中国上海",
+        "url": "http://m.ctrip.com/webapp/dingzhi/directDemand"
+      },
+      {
+        "word": "山西",
+        "type": "province",
+        "districtname": "中国山西",
+        "url": "http://m.ctrip.com/webapp/you/place/100056.html"
+      },
+      {
+        "word": "山西的全部旅游产品",
+        "type": "channeltravelsearch",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/tour/tours?saleCityId=105&kwd=%E5%B1%B1%E8%A5%BF"
+      },
+      {
+        "word": "太原的全部酒店",
+        "type": "hotellist",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/hotel/taiyuan105"
+      },
+      {
+        "word": "山西跟团游",
+        "type": "channeltravelsearch",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/tour/grouptravel?kwd=山西&saleCity=105"
+      },
+      {
+        "word": "山西自由行",
+        "type": "channeltravelsearch",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/diyfhxsdp/list?salecityid=105&snm=&keyword=%E5%B1%B1%E8%A5%BF"
+      },
+      {
+        "word": "山西的当地参团",
+        "type": "channeltravelsearch",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/tour/grouptravel?type=2&salecity=105&kwd=%E5%B1%B1%E8%A5%BF"
+      },
+      {
+        "word": "平遥古城",
+        "type": "sight",
+        "districtname": "山西平遥",
+        "url": "http://m.ctrip.com/webapp/you/sight/pingyao365/132746.html"
+      },
+      {
+        "word": "云冈石窟",
+        "type": "sight",
+        "districtname": "山西大同",
+        "url": "http://m.ctrip.com/webapp/you/sight/datong275/11311.html"
+      },
+      {
+        "word": "晋祠",
+        "type": "sight",
+        "districtname": "山西太原",
+        "url": "http://m.ctrip.com/webapp/you/sight/taiyuan167/50464.html"
+      },
+      {
+        "word": "王家大院",
+        "type": "sight",
+        "districtname": "山西灵石",
+        "url": "http://m.ctrip.com/webapp/you/sight/lingshi3011/74745.html"
+      },
+      {
+        "word": "壶口瀑布",
+        "type": "sight",
+        "districtname": "山西吉县",
+        "url": "http://m.ctrip.com/webapp/you/sight/jixian3038/11393.html"
+      },
+      {
+        "word": "悬空寺",
+        "type": "sight",
+        "districtname": "大同",
+        "url": "http://m.ctrip.com/webapp/you/sight/datong275/17724.html"
+      },
+      {
+        "word": "乔家大院",
+        "type": "sight",
+        "districtname": "山西祁县",
+        "url": "http://m.ctrip.com/webapp/you/sight/qixian3039/74743.html"
+      },
+      {
+        "word": "五台山",
+        "type": "sight",
+        "districtname": "山西五台山",
+        "url": "http://m.ctrip.com/webapp/you/sight/wutaishan184/138392.html"
+      },
+      {
+        "word": "皇城相府",
+        "type": "sight",
+        "districtname": "山西晋城",
+        "url": "http://m.ctrip.com/webapp/you/sight/jincheng665/51677.html"
+      },
+      {
+        "word": "华严寺",
+        "type": "sight",
+        "districtname": "山西大同",
+        "url": "http://m.ctrip.com/webapp/you/sight/datong275/11302.html"
+      },
+      {
+        "word": "山西必吃美食",
+        "type": "food",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/you/foods/shanxi100056.html?did=100056&dname=%E5%B1%B1%E8%A5%BF"
+      },
+      {
+        "word": "山西定制包团",
+        "type": "channeltravel",
+        "districtname": "山西",
+        "url": "http://m.ctrip.com/webapp/dingzhi/directDemand"
+      },
+      {
+        "word": "杭州",
+        "type": "district",
+        "districtname": "浙江",
+        "url": "http://m.ctrip.com/webapp/you/place/14.html"
+      },
+      {
+        "word": "杭州的全部旅游产品",
+        "type": "channeltravelsearch",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/tour/tours?saleCityId=105&kwd=%E6%9D%AD%E5%B7%9E"
+      },
+      {
+        "word": "杭州的全部酒店",
+        "type": "hotellist",
+        "districtname": "浙江",
+        "url": "http://m.ctrip.com/webapp/hotel/hangzhou17"
+      },
+      {
+        "word": "杭州城中香格里拉大酒店",
+        "type": "desthotel",
+        "price": "1208",
+        "star": "豪华型",
+        "zonename": "西湖湖滨商圈 ",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/4498707.html?atime=20170829"
+      },
+      {
+        "word": "杭州凯悦酒店",
+        "type": "desthotel",
+        "price": "1460",
+        "star": "豪华型",
+        "zonename": "西湖湖滨商圈 ",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/369769.html?atime=20170829"
+      },
+      {
+        "word": "杭州柏悦酒店",
+        "type": "desthotel",
+        "price": "1481",
+        "star": "豪华型",
+        "zonename": "钱江新城 ",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/6066000.html?atime=20170829"
+      },
+      {
+        "word": "杭州温德姆至尊豪廷大酒店",
+        "type": "desthotel",
+        "price": "946",
+        "star": "豪华型",
+        "zonename": "西湖风景区/灵隐度假区 ",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/369772.html?atime=20170829"
+      },
+      {
+        "word": "浙江西湖山庄",
+        "type": "desthotel",
+        "price": "1280",
+        "star": "豪华型",
+        "zonename": "西湖风景区/灵隐度假区 ",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/hotel/hoteldetail/5918673.html?atime=20170829"
+      },
+      {
+        "word": "杭州的全部公寓",
+        "type": "hotellist",
+        "districtname": "",
+        "url": "http://m.ctrip.com/webapp/inn/17/checkin-1-0?featureid=64"
+      },
+      {
+        "word": "杭州优惠门票",
+        "type": "channelticketsearch",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/ticket/dest/k-keyword-0/s-tickets?keyword=%E6%9D%AD%E5%B7%9E&scname=%E5%A4%AA%E5%8E%9F"
+      },
+      {
+        "word": "杭州团购",
+        "type": "channelgroupsearch",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/tuan/list/?cityid=17"
+      },
+      {
+        "word": "太原到杭州的机票",
+        "type": "channelplanesearch",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/html5/flight/TYN-HGH-day-1.html?Ddate1=2017-08-30"
+      },
+      {
+        "word": "西湖",
+        "type": "sight",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/sight/hangzhou14/49894.html"
+      },
+      {
+        "word": "西溪国家湿地公园",
+        "type": "sight",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/sight/hangzhou14/25481.html"
+      },
+      {
+        "word": "杭州宋城景区",
+        "type": "sight",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/sight/hangzhou14/4081.html"
+      },
+      {
+        "word": "灵隐寺",
+        "type": "sight",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/sight/hangzhou14/2040.html"
+      },
+      {
+        "word": "雷峰塔",
+        "type": "sight",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/sight/hangzhou14/2033.html"
+      },
+      {
+        "word": "杭州必吃美食",
+        "type": "food",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/you/foods/hangzhou14.html?did=14&dname=%E6%9D%AD%E5%B7%9E"
+      },
+      {
+        "word": "杭州定制包团",
+        "type": "channeltravel",
+        "districtname": "杭州",
+        "url": "http://m.ctrip.com/webapp/dingzhi/directDemand"
+      }
+    ]
+
+}

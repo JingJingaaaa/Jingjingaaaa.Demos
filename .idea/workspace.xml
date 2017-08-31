@@ -1,1198 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f25e3cbc-3df7-4346-9046-9cb68481e863" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/fonts/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/gif.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/home_9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/pic-tmh-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/pic-tmh-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/pic-tmh-04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/pic_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/img/home_page/title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/1.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/E.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/IMG_4794.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/img/un_icon_20160816.png.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0156d2adb3445e2215ab8bb363df0958.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/834f7b6fef5e901e342c2cc9e528cd0e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0806hw/b389546929b4264195d73b6cd35cf54a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/0bb1f804b291c96a04487a056aa218e7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/16e4ab6130f1e478fd879a75585b48c5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/178e29b95f152a8aa6490f4f7032a8e8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/1be817af8477f42c7560096ea6d98e01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/1c55e80e09f250afadba8446098d93f8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/245b5b3a19ff5427d2e2c66372936964.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/252e47634c05e0f016999df86da0a645.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/31441edde74fbaf3e0e20d8da4cb2d09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/3643b0ccf7c12db3b2f6eb37217ce41c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/382e26b92c149b49363ad16a8ee4f97e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/387b61625701f6297b5654a055d26bf1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/3982e8a93d63025685876323b9dcc6e3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/3e3fa1b8965fb07d06948baa19d230f9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/42ced28ed9a3e61506b7015511125a1b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/42f43874c9eef2cbd95e9a55b7889c23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/47287ac7cad6eed0eeeecf153f88106d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/476f13dae1953641f8b3d254cabbf197.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/48d9052b3f6cbc206909d7a39a41b412.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/4f1a00a517ce3ac5803ec5de37d1d7f8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/569539637653da2c635212847f322e7a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/56aba63be958d16344664b1073f22e4d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/596cb0e09b1975347bef81a1be6599de.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/60de0631b077e236160a4d621c00ebe8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/6c20940c7b36612b0ed4d7b0a8a4aafe.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/6cb4ae8332a25fc63f3a9a283fbfe759.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/6e412cf16f64c54d76ce617f9f4f8f10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/71a7c74321cc7a619d4a28057900ab11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/75811744a97bc8978d93808b9374d2fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/795884dc6d995eca9a091a6358e3634d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/7cb25deff5b86cd9d54ac9265b453c98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/7ea875e46ea109238445cdc0f6126bd8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/80aeb6e624df61c8cd5075ef816a77c9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/80b2663468434183b2e2a686327a4cf4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/810452795a47874bd626e89e0ee70774.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/8280c673a0a90eda3f5282b7ed73fe9a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/835612e5c90c335ad6977f84d34f8d23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/86a5dfe1d730acf7991c7e7f76ada306.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/86f32b668af6e537389a77480fb5c74d.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/8d3e04bd64d16318d906d68f4172e67c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/8d8e230efd3f1bf0855d1182195cd873.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/905983c88a083a464ccfb77a9d4714e0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/94fee38d9849fab5037a2ac9f591b413.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/9686705f5858d66e8b4089efbdc861c6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/97313908709f1b65b6536d7e49caa59e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/98dc5019e9b50fa3f068bf4921fe656c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/a0affc69c097af33926118db4eb79a82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/abe6028120ba42923e26e5f638dee7ae.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/ad953e16ad8c33b714e7af941ce8cd56.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/ae29a5f0baa68567e47e7b38cca96364.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/b2c5185165061949d3e47292d3169a4f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/b84501487e3fcbf3110fa7c9658279eb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/bfb5a22aa58252ba3b5fe6f04a108a77.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/c273614052ff3ef182eedc7f44e16a20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/cart-s60a1b1ed02-13bd136ac9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/cdc72ab71aae21a9f4947c3f2e90c581.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/d54a3406f22263288efb5faecaa00e0c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/d6bd29fcf2096cb4c5d338e0fce13919.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/db873e6e1c3bb7fdb9686302ee117316.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/e2feca858ec523a29751888d22ddc1d6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/e5474a8f4fd5748079e2ba2ead806b51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/e86ff4b6c75d1ae7d96c5974db68a099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/ec8fc11826003c1e1875424acf23f6c2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/f0132986dbf16e6f04c67bdd8286e998.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/fd7e6c1abd6f6d8e6ce987258f6daf60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/0b244d3575b737c8f0ed7e84c5c4abd2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/22db4ccbf52dc62c723ac83aa587812a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/4aab4598017b5749e3b63309d25e9f6b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/9d481ea4c2e9e6eda35aa720d407332e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/9ea192cd2719c8348f42ec17842ba763.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/dc4d6c35b9f4abb42d2eeaf345710589.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/canchu/f109afbb7e7a00c243c1da29991a5aa3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/dianqi/19ffe3776ea359bede92c73c6b81bc35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/dianqi/3ec003761d346bc866de2ec249d7ff19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/dianqi/4cbfd1f6e50bc808ddf0bbd0ef9f246c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/dianqi/521bd0c02d283b80ba49e73ca84df250.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/dianqi/a6f0238587bc3126404082e93eeba59f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/20279e1753e4eedc6e347857acda9681.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/24a7a33cfeac0bb87a737480db79e053.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/364269344ed69adafe1b70ab7998fc50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/71f391af17fce739a6a57a1eeadbcbf0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/94aa4a4814e2a7a97639438f1d52dcee.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/97bb55280b8ffa40390f2ee36486314a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/a3906045b1367d70f658ce9de03e8193.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/d82d0bacfd7243c2ad09dbf2513cfcf9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/fuzhuang/f123c74f54d9acff0bd1546c60034814.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/13ff4decdf38fe1a5bde34f0e0cc635a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/243e5bf327a87217ad1f54592f0176ec.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/4f00675caefd0d4177892ad18bfc2df6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/8bbcd7de60a678846664af998f57e71c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/927bc33f7ae2895dd6c11cf91f5e3228.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/a0352c57c60ce4f68370ecdab6a30857.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/ab0df9445d985bf6719ac415313a8e88.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/jujia/fdc048e1bf4f04d1c20b32eda5d1dc6e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/1121696544ed9b0c2a70e82f1088fa0e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/288b0e864a24763bade8e22c0c39ff02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/2f71c7710f0bf857e787e1adb449c8a2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/340e0f58cc53085c9198abb044dd615f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/3a8c7ae5b9dc5c1c4b7f2b656abb0279.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/4316c2d05745bc90d1f333e363e571bd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/5197c44b610d786796f955334b55c7a5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/97f5f75ea1209dfbb85e91932d26c3ed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/d835a76e56a88905194f543b67089b4b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/peijian/e8e77f0c1eb2572c900d17870d48038a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/26fcd627cdccbe33bdefe329969f7575.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/3067ee3e3871d0f9d1b3f3a3d8673e6f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/44ad9a739380aa6b7cf956fb2a06e7a7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/810a6d6bcffc740aae58bb6174cf3b73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/a4d0f08f1cee8c3240ea8522d6aa8ffa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/aa49c088f74a1c318f1765cc2703495a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/d43e7af0a6a9385d88be2ca1df679158.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/xihu/f73df75f334126cf1f3823696ea0663c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/06bbfb293b6194b27ebdb3350203a1f7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/0a7d57f75fc8180ed347b46b864d2195.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/0f3c5ad63139096fd0760219e12149af.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/4e50f3c4e4d0a64cd0ad14cfc0b6bd17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/5db40a5bf84c177515610471d4d08687.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/720aebaa529df9391b95a078dfb2fd5c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/7aac7c5819f71345a52a4b9df23d6239.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/c55338691ebd46bee9ebf225f80363ce.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yingtong/dad175edb8590a33938427161939ff3f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/0c5af0575176c4a3023783bef7a87a0f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/2245616009de893ece74bbe4be81d9d7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/2919b0d6eec79182cca31dc827f4d00a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/2ae44a3944f2bc737416e1cff3d4bcef.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/60f4ae2beef4754347fa36208f84efab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/663f568475c994358bf31bcb67d122fe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/6c43063003207168c1d8e83a923e8515.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/93168242df456b5f7bf3c89653b3db76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/db3e11b8a6974a253818ae0d6fb2d24e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/yinshi/e050980992725b7932bb3645fe5aec08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/4e929a21baebdb1200361d8097e35e45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/83d22ca3d1c8f94ee23ca96de489864c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/b29a11afa76b9f4a57131555f1a54c77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/bb9232716b2fc96d9bdbac4955360dfa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/da884ff3b9e9d5276986c99e85722461.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zahuo/e1743239e41ca9af76875aedc73be7f0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhenxuanjia/0c1cea9c9cc6a1ba8bb6b3336c202853.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhenxuanjia/9738effa30130524076205bdd97d9a37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhenxuanjia/9cb1415f5d26586afd7ae7c359bdca69.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/2ed3e7f26e7471fa1e226eaaae6dcd3c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/336f0186a9920eb0f93a3912f3662ffe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/42db52ecb366dc7b763fa852252e38ad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/433ff879a3686625535ca0304be22ab2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/71feb3efd3eaee01a74e8aa78430de9d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/8cab7bf1225dc9893bd9de06fc51921d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/8fe4eb999f748236228a73e09878e277.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/97937fcf2defb864d9e53d98a337d78a.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/b5e9f174404ef81b8603d6ecc304c62e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/b60618db213322bdc2c5b1208655bd7e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/d7150580b1f432a2fb12a7f695c4c6e8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/e091aae0c8cafc5ab48dfabcc52c79b6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhiqu/f0698297aaac41b778c1ea65eefb8b34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/228b8edad8e877243a342d9e45cacf7c.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/22e14ba459b7e466888cf49fd3bfba73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/2bf2d1033bfb8a6e3846f2aa44826bf4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/50b8792c3190a920f0c8323a0a534735.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/7a571fb96d66419886ba99c9f32b0d07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/b437829c778855e91856fea5fb5df2f6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/bfe857d9d7a1808d14ed19f4b2702059.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/dbbefc81b12c9f0e0f7a5ffe590fd303.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/files/zhuanti/f8fc7acfa36bed1fd22699cfcf0d69fb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/foot-s6291f0f170-57e55c3ecd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/header-secaaba58c8-1eca22b5c2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/hxm-yanxuan-component-p-20170601-style-img-x1-icon-fixedtool-s21bac7ba5a-5bfa300caa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/img/下载.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/Material-Design-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/background2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/background3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/background2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/background3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/i.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/j.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/k.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/l.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/q.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/u.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/v.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/y.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/letters/z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko026.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko027.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko031.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko033.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko034.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko035.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko036.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko037.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko038.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko042.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko043.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko044.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko047.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko048.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko050.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko054.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko057.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko059.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko061.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko062.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko063.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko064.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko065.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko066.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko067.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko068.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko070.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko071.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko074.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko076.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko078.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko085.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko087.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko090.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko091.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko092.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko095.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko096.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko097.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko117.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko118.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/img/moko/moko123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/Material-Design-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/background2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/background3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/background1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/background2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/background3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/a.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/b.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/c.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/d.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/e.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/f.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/g.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/h.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/i.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/j.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/k.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/l.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/m.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/n.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/p.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/q.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/r.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/t.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/u.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/v.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/w.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/y.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/letters/z.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko008.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko009.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko010.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko011.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko012.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko013.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko014.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko015.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko017.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko018.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko019.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko020.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko021.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko022.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko023.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko024.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko025.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko026.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko027.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko028.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko029.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko030.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko031.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko032.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko033.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko034.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko035.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko036.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko037.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko038.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko039.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko040.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko041.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko042.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko043.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko044.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko045.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko047.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko048.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko049.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko050.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko051.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko052.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko053.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko054.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko055.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko056.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko057.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko058.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko059.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko060.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko061.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko062.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko063.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko064.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko065.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko066.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko067.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko068.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko069.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko070.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko071.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko072.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko073.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko074.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko075.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko076.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko078.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko079.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko080.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko081.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko082.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko083.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko085.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko087.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko088.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko089.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko090.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko091.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko092.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko093.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko094.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko095.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko096.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko097.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko098.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko099.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko100.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko101.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko102.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko103.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko104.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko105.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko106.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko107.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko108.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko109.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko110.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko112.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko113.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko114.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko116.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko117.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko118.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko119.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko120.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko121.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko122.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/img/moko/moko123.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullpage/images/page-4/cloud_two.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullpage/images/page-4/school.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/01_shopping_cart.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular/js/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/GO.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/home_page.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/iconfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/my.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/css/resign.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/home_page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/home_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/js/resign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/my.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/resign.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/script/freeT.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GO/script/tourise.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/01_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/02_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/03_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/04_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/05_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/06_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/07_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/08_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/09_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/10_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/11_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/12_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/13_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/14_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/15_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/16_demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/01.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/07.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/08.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/09.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/15.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/css/tab.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/01.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/07.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/08.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/09.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/15.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/Snake_fuben.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSdemos/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/css/earthshop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/css/shaopcar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/css/wangyi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/earthshop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/js/earthshop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/js/login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/js/shopcar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/js/wangyi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WANGYIYANXUAN/shopcar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/bin/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/bin/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/css/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/css/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/js/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/dist/js/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/extras/noUiSlider/nouislider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/extras/noUiSlider/nouislider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/extras/noUiSlider/nouislider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/cards.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/character_counter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/chips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/collapsible.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/date_picker/picker.date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/date_picker/picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/hammer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/initial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/jquery.hammer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/jquery.timeago.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/materialbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/pushpin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/scrollFire.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/sideNav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/toasts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/transitions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/js/waves.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/_style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_chips.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_collapsible.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_icons-material-design.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_materialbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_preloader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_roboto.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_sideNav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_table_of_contents.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_toast.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/_waves.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/date_picker/_default.date.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/date_picker/_default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/date_picker/_default.time.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_checkboxes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_file-input.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_input-fields.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_radio-buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_range.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/components/forms/_switches.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/sass/materialize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/masonry-template/js/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/parallax-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/starter-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/starter-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/templates/starter-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/autocomplete/autocompleteSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/cards/cardsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/chips/chipsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/collapsible/collapsibleSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/dropdown/dropdownSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/materialbox/materialboxSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/scrollFire/scrollFireSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/select/selectSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/sideNav/sideNavSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/tabs/tabsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/toast/toastSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/bower_components/materialize/tests/spec/tooltip/tooltipSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/b.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/books.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/db/f.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/js/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/js/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/js/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/js/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreBasis/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/AUTHORS.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.slim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.slim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/dist/jquery.slim.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/external/sizzle/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/external/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/external/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/external/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/.eslintrc.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/var/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/ajax/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/DOMEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/ready-no-deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/readyException.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/stripAndCollapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/adjustCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/showHide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/isHiddenWithinTree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/css/var/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/data/var/acceptData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/data/var/dataPriv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/data/var/dataUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/deferred/exceptionHook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event/focusin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/event/trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/buildFragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/getAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/setGlobalEval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/var/rscriptType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/var/rtagName.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/manipulation/wrapMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/traversing/var/dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/traversing/var/siblings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/ObjectFunctionString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/document.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/documentElement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/fnToString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/getProto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/rcssNum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/rnothtmlwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/ISSUE_TEMPLATE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/bin/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/bin/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/css/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/css/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/js/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/dist/js/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/extras/noUiSlider/nouislider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/extras/noUiSlider/nouislider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/extras/noUiSlider/nouislider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/animation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/buttons.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/cards.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/character_counter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/chips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/collapsible.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/date_picker/picker.date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/date_picker/picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/hammer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/initial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/jquery.hammer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/jquery.timeago.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/materialbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/pushpin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/scrollFire.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/sideNav.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/toasts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/transitions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/velocity.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/js/waves.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/_style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_chips.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_collapsible.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_icons-material-design.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_materialbox.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_preloader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_roboto.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_sideNav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_table_of_contents.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_toast.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/_waves.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/date_picker/_default.date.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/date_picker/_default.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/date_picker/_default.time.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_checkboxes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_file-input.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_input-fields.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_radio-buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_range.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/components/forms/_switches.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/sass/materialize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/masonry-template/js/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/parallax-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/starter-template/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/starter-template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/templates/starter-template/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/autocomplete/autocompleteSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/cards/cardsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/chips/chipsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/collapsible/collapsibleSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/dropdown/dropdownSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/helper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/materialbox/materialboxSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/scrollFire/scrollFireSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/select/selectSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/sideNav/sideNavSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/tabs/tabsSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/toast/toastSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/bower_components/materialize/tests/spec/tooltip/tooltipSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/a.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/b.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/books.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/c.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/d.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/db/f.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/bookstore_app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/bookstore_controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/bookstore_filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/bookstore_route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/js/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bookstoreModularity/views/content.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/js/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/js/masonry-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/pubuliu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pubuliu/pubuliu2.html" />
-    </list>
+    <list default="true" id="f25e3cbc-3df7-4346-9046-9cb68481e863" name="Default" comment="" />
     <ignored path="Jingjingaaaa.Demos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1211,7 +20,7 @@
     <favorites_list name="Jingjingaaaa.Demos" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1237,7 +46,6 @@
         <option value="$PROJECT_DIR$/JS_demos/js/08.js" />
         <option value="$PROJECT_DIR$/JS_demos/css/07.css" />
         <option value="$PROJECT_DIR$/Angular/01_shopping_cart.html" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/pubuliu/pubuliu.html" />
         <option value="$PROJECT_DIR$/pubuliu/pubuliu2.html" />
         <option value="$PROJECT_DIR$/pubuliu/css/base.css" />
@@ -1245,6 +53,7 @@
         <option value="$PROJECT_DIR$/JSdemos/js/tab.js" />
         <option value="$PROJECT_DIR$/JSdemos/21.html" />
         <option value="$PROJECT_DIR$/JSdemos/css/tab.less" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -1284,6 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1292,9 +102,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jingjingaaaa.Demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jingjingaaaa.Demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1382,10 +201,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4864865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2635135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1548,7 +367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1609,7 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1673,7 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.2258065">
           <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1691,19 +507,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24504505">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSdemos/js/less.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1711,9 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.042881645">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding>
-            <element signature="e#828#872#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1729,10 +533,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23992322">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#1743#2269#0" expanded="false" />
-            <element signature="e#2296#2317#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1740,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1748,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1756,7 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.7352941">
           <caret line="308" column="85" selection-start-line="308" selection-start-column="85" selection-end-line="308" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1764,6 +561,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7723133">
           <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3243243">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>

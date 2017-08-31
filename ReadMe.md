@@ -1,3 +1,9 @@
+# 如何使用
+- 克隆
+```
+$ git clone https://github.com/JingJingaaaa/Jingjingaaaa.Demos.git
+```
+
 # 主要是学习阶段的一些小demo
 + Angular
     - 用angular写的一个购物车页面
@@ -23,10 +29,8 @@
     - JQuery插件 和JQueryAJAX实现的瀑布流
 + WANYIYANXUAN
     - 模仿网易严选做的网页，用来练习js和css布局
-+ GitHub:https://github.com/JingJingaaaa
 
 + 都是些小的练习，用来巩固自己日常所学，让各位前辈见笑了，静静会一直努力的^-^
     - 不要在该奋斗的年纪选择了安逸！
 
-```
 
